@@ -54,3 +54,5 @@ Update the \$spreadsheetId variable in export.php.
 ...
 </form>
 ```
+
+**Security note: You should deny direct access to credentials.json by using .htaccess or moving outside of public_html**
